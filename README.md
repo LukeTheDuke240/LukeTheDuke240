@@ -1,6 +1,6 @@
 Welcome to my dogshit github :P
 
-i do css, unity, js and python
+i do css, unity, js and python, and other random things
 
 gimme a slap in the face at LukeTheDuke420#7313 on discord
 
