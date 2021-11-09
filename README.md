@@ -1,10 +1,5 @@
-Welcome to my dogshit github :P
+Welcome to my github
 
-i do css, unity, js and python, and other random things
+i do css, js and other random things
 
-gimme a slap in the face at LukeTheDuke420#7313 on discord
-
-<!---
-LukeTheDuke240/LukeTheDuke240 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LukeTheDuke420#7313 on discord
