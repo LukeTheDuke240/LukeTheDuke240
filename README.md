@@ -1,5 +1,5 @@
-Welcome to my github
+Welcome to my github!
 
-i do css, js and other random things
+i do CSS, JS and other random things.
 
-LukeTheDuke#7313 on discord
+LukeTheDuke#7313 on discord.
